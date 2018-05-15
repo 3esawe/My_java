@@ -1,33 +1,22 @@
-<<<<<<< Updated upstream
+package HackkerRank;
+
+import java.util.ArrayList;
+
 public class MaxSum {
   public static void main(String[] args) {
       int [] rand = {1,2,3,4,5};
-      int max = rand[0];
+      int max = 0;
       int min = 0;
-      for (int i = 1 ; i < rand.length ;i++ ) {
-          for (int j = 1 ; j < rand.length-1;j++){
 
-                  max += rand [i] + rand[j];
+      for (int i =  1; i < rand.length ;i++ ) {
 
-
-                  min = rand [i] + rand[j];
-
-          }
-
+            max+= rand[i];
+            min += rand[i-1];
         }
-        System.out.println(max );
-        System.out.println(min );
+
+      System.out.println(max);
+      System.out.println(min);
 
   }
-=======
-package HackkerRank;
 
-public class MaxSum {
-    public static void main(String[] args) {
-        int [] rand = {1,2,3,4,5};
-        int max = rand[0];
-        int min = rand[0];
-        for (int i=0; i < )
-    }
->>>>>>> Stashed changes
 }
