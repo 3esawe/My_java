@@ -1,5 +1,6 @@
 package PQueues;
 
+import java.lang.Integer;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
@@ -20,7 +21,7 @@ import java.util.PriorityQueue;
 */
 public class PQueues {
     public static void main(String[] args) {
-     
+
         PriorityQueue<String> x = new PriorityQueue<>();
         x.add("Azi");
         x.add("Ammar");
