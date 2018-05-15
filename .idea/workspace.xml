@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyJava:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22a28e0c-b477-4e00-a8ca-f20b04316617" name="Default" comment="commited via Intellij">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="22a28e0c-b477-4e00-a8ca-f20b04316617" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/HackkerRank/MaxSum.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/PQueues/PQueues.java" afterPath="$PROJECT_DIR$/src/PQueues/PQueues.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/PQueues/PQueues.class" afterPath="$PROJECT_DIR$/out/production/MyJava/PQueues/PQueues.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +21,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PQueues.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PQueues.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PQueues/PQueues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HackkerRank/MaxSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/Queues/Array_Queues.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,6 +85,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -80,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Udemy_Array_list/MobilePhones.java" />
         <option value="$PROJECT_DIR$/src/edx/Node.java" />
         <option value="$PROJECT_DIR$/src/HackkerRank/diagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search_Tree/Node.java" />
@@ -131,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/Queues/Linked_Queues.java" />
         <option value="$PROJECT_DIR$/src/Deques/Deques.java" />
         <option value="$PROJECT_DIR$/src/PQueues/PQueues.java" />
+        <option value="$PROJECT_DIR$/src/HackkerRank/MaxSum.java" />
       </list>
     </option>
   </component>
@@ -141,8 +157,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
-    <option name="y" value="179" />
+    <option name="x" value="733" />
+    <option name="y" value="12" />
     <option name="width" value="1280" />
     <option name="height" value="684" />
   </component>
@@ -181,6 +197,12 @@
               <item name="MyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HackkerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Queues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,8 +222,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Uni" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java/Iner Class/Inner-and-Abstract-Classes-&amp;-Interfaces-Inner-Classes-Part-2-Source-code" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -481,20 +503,27 @@
       <workItem from="1525435647956" duration="9488000" />
       <workItem from="1525719905450" duration="8671000" />
       <workItem from="1526118717407" duration="1204000" />
-      <workItem from="1526320458573" duration="13163000" />
+      <workItem from="1526320458573" duration="15902000" />
     </task>
+    <task id="LOCAL-00001" summary="commited via Intellij">
+      <created>1526386777913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526386777913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202436000" />
+    <option name="totallyTimeSpent" value="205175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.4941435" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.4941435" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -505,7 +534,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1398243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1398243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -649,20 +678,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/Java/Interfaces/Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-2-Source-code/src/com/timbuchalka/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Java/Interfaces/Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-2-Source-code/src/com/timbuchalka/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Udemy_Interface/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -905,7 +920,7 @@
         <state relative-caret-position="17">
           <caret line="112" column="17" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -915,8 +930,8 @@
         <state relative-caret-position="210">
           <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="false" />
+            <element signature="e#1050#1051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -942,20 +957,20 @@
         <state relative-caret-position="254">
           <caret line="80" column="56" lean-forward="false" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#201#202#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#382#383#0" expanded="false" />
+            <element signature="e#414#415#0" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#473#474#0" expanded="false" />
+            <element signature="e#514#515#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#793#794#0" expanded="false" />
+            <element signature="e#826#827#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#881#882#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1024,7 +1039,7 @@
     <entry file="file://$PROJECT_DIR$/src/Queues/Array_Queues.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1050,11 +1065,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PQueues/PQueues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackkerRank/Plus_Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackkerRank/MaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,10 +1095,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>MyJava:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1115,6 +1148,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

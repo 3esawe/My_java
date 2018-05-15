@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 public class MaxSum {
   public static void main(String[] args) {
       int [] rand = {1,2,3,4,5};
@@ -18,4 +19,15 @@ public class MaxSum {
         System.out.println(min );
 
   }
+=======
+package HackkerRank;
+
+public class MaxSum {
+    public static void main(String[] args) {
+        int [] rand = {1,2,3,4,5};
+        int max = rand[0];
+        int min = rand[0];
+        for (int i=0; i < )
+    }
+>>>>>>> Stashed changes
 }
